@@ -6,7 +6,7 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore, *~]
+exclude: [CNAME, README.md, .gitignore]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "RES Società Cooperativa Sociale ONLUS"
+title:       "RES Societa' Cooperativa Sociale ONLUS"
 keywords:    "coop torino canavese"
 description: "Ricerca Educativa Servizio Società Cooperativa Sociale. CIRIE' via delle ginestre, 1. Servizi residenziali e semiresidenziali per persone disabili."
 source_link: "https://github.com/t413/SinglePaged"
